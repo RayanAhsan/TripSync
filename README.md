@@ -1,6 +1,8 @@
 # TripSync – Your Map, Your Way  
 *A smarter, faster, and more user-centered navigation tool.*  
 
+**NOTE**: The code for this project cannot be uploaded to this repository as it is forbidden and considered an academic offense from the University of Toronto 
+
 ## 📖 Overview  
 TripSync is a Geographic Information System (GIS) application designed to deliver a customizable and efficient navigation experience. Built with **C++**, **EZGL**, and **GTK**, and powered by the **OpenStreetMap API**, TripSync combines intuitive visuals with state-of-the-art routing algorithms.  
 
